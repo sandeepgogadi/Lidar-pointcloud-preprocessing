@@ -6,7 +6,9 @@
 
 ![alt text](https://github.com/sandeepgogadi/Lidar-pointcloud-preprocessing/blob/master/pcl_data.gif "Demo")
 
-checkout Implementation.ipynb for more.
+checkout [Implementation.ipynb] for more.
+
+[Implementation.ipynb]: https://github.com/sandeepgogadi/Lidar-pointcloud-preprocessing/blob/master/Implementation.ipynb
 
 [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/)
 @ARTICLE{Geiger2013IJRR,
